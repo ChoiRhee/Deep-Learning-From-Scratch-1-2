@@ -1,5 +1,5 @@
 # deep_learning_from_scratch
-## BOAZ 분석 BASE 멘멘 
+## BOAZ
 
 ### - 밑바닥부터 시작하는 딥러닝
 __1장__  판다스 넘파이<br>
